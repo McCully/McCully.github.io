@@ -1,0 +1,46 @@
+*{
+	background-color:#F5DEB3;
+}
+#bio1{
+    line-height: .5em;
+    margin-left: 20px;
+	padding-bottom: 10px;
+	
+}
+#bio1 span{
+	line-height: .5em;
+	float:right;
+	margin-right: 20px;
+}
+.title1 {
+	text-decoration-line: ;
+	font-weight: bold;
+	margin-left: 50px;
+	
+}
+
+p{
+	font-size: 24px;
+}
+li {
+	font-size: 24px;
+}
+hr {
+	color:#000000;
+	margin-left: 0px;
+	margin-right:10px;
+}
+li span{
+	float:right;
+	margin-right: 20px
+
+}
+ol li{
+	text-decoration: underline;
+}
+ul li{
+	text-decoration: none;
+}
+ol li span{
+	text-decoration: underline;
+}
