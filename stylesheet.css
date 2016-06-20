@@ -1,29 +1,16 @@
 *{
-	background-color:#F5DEB3;
+	background-color:#d1d490;
 }
-#bio1{
-    line-height: .5em;
-    margin-left: 20px;
-	padding-bottom: 10px;
-	
-}
-#bio1 span{
+span{                                 //Top of page
 	line-height: .5em;
 	float:right;
 	margin-right: 20px;
 }
-.title1 {
-	text-decoration-line: ;
-	font-weight: bold;
-	margin-left: 50px;
-	
-}
-
 p{
 	font-size: 24px;
 }
 li {
-	font-size: 24px;
+font-size: 24px;
 }
 hr {
 	color:#000000;
@@ -32,8 +19,7 @@ hr {
 }
 li span{
 	float:right;
-	margin-right: 20px
-
+	margin-right: 20px;
 }
 ol li{
 	text-decoration: underline;
